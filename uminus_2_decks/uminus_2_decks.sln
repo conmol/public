@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{35D35C2C-E72E-40C1-A487-EF6A35AECB2B}") = "uminus_2_decks", "uminus_2_decks.vcxproj", "{2D3D9833-9DF0-400A-8C0A-D207295E4A2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D3D9833-9DF0-400A-8C0A-D207295E4A2A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2D3D9833-9DF0-400A-8C0A-D207295E4A2A}.Debug|Win32.Build.0 = Debug|Win32
+		{2D3D9833-9DF0-400A-8C0A-D207295E4A2A}.Debug|x64.ActiveCfg = Debug|x64
+		{2D3D9833-9DF0-400A-8C0A-D207295E4A2A}.Debug|x64.Build.0 = Debug|x64
+		{2D3D9833-9DF0-400A-8C0A-D207295E4A2A}.Release|Win32.ActiveCfg = Release|Win32
+		{2D3D9833-9DF0-400A-8C0A-D207295E4A2A}.Release|Win32.Build.0 = Release|Win32
+		{2D3D9833-9DF0-400A-8C0A-D207295E4A2A}.Release|x64.ActiveCfg = Release|x64
+		{2D3D9833-9DF0-400A-8C0A-D207295E4A2A}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F44A9BA8-0521-44FD-AEB0-0250C0BFEF0A}
+	EndGlobalSection
+EndGlobal
