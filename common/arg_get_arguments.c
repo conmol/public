@@ -183,7 +183,8 @@ int arg_get_arguments(int argc,
             }
 
             /* Skip the first and second dash characters. */
-            argument_ptr += 2 * sizeof(*argument_ptr);
+            ++argument_ptr;
+            ++argument_ptr;
 
             status = search_for_long_option_string(arg_option_ptr,
                                                    argument_ptr,
